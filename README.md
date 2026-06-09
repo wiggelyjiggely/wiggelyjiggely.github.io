@@ -4,7 +4,7 @@
 
 ## Privacy Overview
 
-**[App Name]** is a StrongLifts 5×5 workout tracking application designed with privacy in mind.
+Stronglift 5x5 is a StrongLifts 5×5 workout tracking application designed with privacy in mind.
 
 The app does **not collect, store, process, transmit, or share any personal data** with the developer or any third party.
 
